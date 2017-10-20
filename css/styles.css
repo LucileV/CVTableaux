@@ -1,0 +1,206 @@
+
+@blue: #17B6FF;
+
+.noir {color:black;
+font-weight: bold;}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+	
+
+body {
+
+
+	color : grey;
+	background-color:#b7b7b7;
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 14px;
+
+}
+
+a  {
+	color:grey;
+	
+}
+
+a:hover  {
+	color:#4A89AA;
+	
+}
+
+h1  {
+	color:#4A89AA;
+	font-size: 45px;
+	margin-bottom: 5px;
+
+}
+.slogan  {
+	color:black;
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+table .balance {
+	font-size: 1px;
+}
+
+.WorkTitre {
+	color:#4A89AA;
+	font-size: 12px;
+	display: block;
+
+}
+
+.WorkSousTitre {
+	
+	font-size: 12px;
+	display: block;
+	margin-bottom: 10px;
+
+
+}
+
+i {
+	color: #4A89AA;
+}
+
+h2  {
+	color: #4A89AA;
+	font-size: 20px;
+	margin-top: 15px;
+}
+
+h4  {
+	color:#4A89AA;
+	font-size: 15px;
+}
+
+
+h5  {
+	color:black;
+	font-size: 13.5px;
+	margin-bottom: 5px;
+
+
+}
+
+
+
+.feuille {
+
+	background-color: #f1f1f1;
+	width: 793px;
+	//height: 1050px;
+	margin: auto;
+	
+
+	
+}
+
+
+.resume {
+	width: 100px;
+	height: 30px;
+	background-color: #4A89AA;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 50px
+}
+
+
+.right {
+	text-align: right;
+	float: right;
+}
+
+.carre {
+	display: block;
+	position: absolute;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 20px;
+	width: 80px;
+	
+	background-color: rgba(74, 137, 170, 0.8);
+	-ms-transform: rotate(-60deg); /* IE 9 */
+    -webkit-transform: rotate(-60deg); /* Chrome, Safari, Opera */
+    transform: rotate(-60deg);
+    margin-top: 30px;
+    //margin-bottom: -15px;
+}
+
+.work {
+	//margin-top: 50px;
+	float: left;
+	z-index: 5;
+	margin-left: -50px;
+	padding-top: 10px;
+	height:  70px;
+} 
+
+.play {
+	//float: right;
+	z-index: 4;
+	padding-top: 40px;
+	height: 40px;
+}
+
+.trait {
+	display: block;
+	width: 100%;
+	height: 1px;
+	background-color: grey;
+	border-bottom: 1 solid grey;
+}
+
+.experience {
+	margin-left: 30px;
+	padding-top: 40px;
+}
+
+.experience td {
+   padding-bottom: 20px;
+}
+
+.espace {
+	height: 30px;
+}
+
+.espaceSkill {
+	height: 20px;
+}
+
+.marges {
+	padding-left: 43px;
+}
+
+table, th, td {
+
+	vertical-align: top;
+}
+th, td {
+    padding: 2px;
+    text-align: left;    
+    color: grey;
+}
+
+.footer {
+	width: 100%;
+	background-color: #4A89AA;
+	height: 30px;
+	
+
+}
+
+meter {
+	width: 120px;
+	height: 12px;
+	background-color: #4A89AA;
+}
+
