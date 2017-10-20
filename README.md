@@ -1,3 +1,3 @@
 # CV Tableaux
 
-Excercice sur les tables imbriqués.
+Excercice sur les tableaux imbriqués.
